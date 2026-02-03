@@ -1,0 +1,4 @@
+You're on a date but Fishita steals your kiss! Go get your revenge and take down that wretched fish.
+Use WASD to move and jump. Press LSHIFT to dash. Dashing makes you temporarily immune to damage, and it deflects
+any bullets shot at you (not lasers) in addition to hurting Fishita. Try to use that to knock Fishita down so you can
+slay her with your dash!
